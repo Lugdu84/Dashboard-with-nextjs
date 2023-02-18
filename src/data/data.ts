@@ -7,7 +7,7 @@ export const data = [
         },
         total: 100,
         method: "Paypal",
-        status: "Pending",
+        status: "Completed",
         date: "25 minutes ago",
         email: "chris@adams.fr"
     },
@@ -31,7 +31,7 @@ export const data = [
         },
         total: 300,
         method: "Paypal",
-        status: "Pending",
+        status: "Completed",
         date: "45 minutes ago",
         email: "jane@doe.fr"
     },
@@ -55,7 +55,7 @@ export const data = [
         },
         total: 280,
         method: "Paypal",
-        status: "Pending",
+        status: "Completed",
         date: "57 minutes ago",
         email: "deborah@cole.fr"
     },
@@ -91,7 +91,7 @@ export const data = [
         },
         total: 640,
         method: "Paypal",
-        status: "Pending",
+        status: "Processing",
         date: "59 minutes ago",
         email: "helen@vega.fr"
     },
