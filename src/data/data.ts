@@ -8,7 +8,8 @@ export const data = [
         total: 100,
         method: "Paypal",
         status: "Pending",
-        date: "25 minutes ago"
+        date: "25 minutes ago",
+        email: "chris@adams.fr"
     },
     {
         id: 2,
@@ -19,7 +20,8 @@ export const data = [
         total: 200,
         method: "Paypal",
         status: "Pending",
-        date: "35 minutes ago"
+        date: "35 minutes ago",
+        email: "john@doe.fr"
     },
     {
         id: 3,
@@ -30,7 +32,8 @@ export const data = [
         total: 300,
         method: "Paypal",
         status: "Pending",
-        date: "45 minutes ago"
+        date: "45 minutes ago",
+        email: "jane@doe.fr"
     },
     {
         id: 4,
@@ -41,7 +44,8 @@ export const data = [
         total: 400,
         method: "Paypal",
         status: "Pending",
-        date: "55 minutes ago"
+        date: "55 minutes ago",
+        email: "john@smith.fr"
     },
     {
         id: 5,
@@ -52,7 +56,8 @@ export const data = [
         total: 280,
         method: "Paypal",
         status: "Pending",
-        date: "57 minutes ago"
+        date: "57 minutes ago",
+        email: "deborah@cole.fr"
     },
     {
         id: 6,
@@ -63,7 +68,8 @@ export const data = [
         total: 320,
         method: "Paypal",
         status: "Pending",
-        date: "58 minutes ago"
+        date: "58 minutes ago",
+        email: "linda@owen.fr"
     },
     {
         id: 7,
@@ -74,7 +80,8 @@ export const data = [
         total: 420,
         method: "Paypal",
         status: "Pending",
-        date: "58 minutes ago"
+        date: "58 minutes ago",
+        email: "charles@parker.fr"
     },
     {
         id: 8,
@@ -85,6 +92,7 @@ export const data = [
         total: 640,
         method: "Paypal",
         status: "Pending",
-        date: "59 minutes ago"
+        date: "59 minutes ago",
+        email: "helen@vega.fr"
     },
 ]
